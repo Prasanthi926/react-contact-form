@@ -1,4 +1,4 @@
-
+import React from 'react';
 import styles from "./Button.module.css";
 const Button = ({ isOutline, icon, text, ...rest }) => {
   return (
